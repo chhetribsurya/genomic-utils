@@ -1,6 +1,6 @@
 # Genomic-utils
 
-# TXT to BED Converter Usage Examples
+## TCGA ATAC-seq to BED Converter Usage Examples
 
 ## Directory Mode (Process Multiple Files)
 ```bash
