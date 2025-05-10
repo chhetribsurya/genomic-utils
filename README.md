@@ -1,6 +1,6 @@
-# GENOMIC UTILS AND TOOLS
+# Genomic Utils AND Tools
 
-## TCGA ATAC-seq txt to Bed Converter Usage Examples
+### TCGA ATAC-seq txt to Bed Converter Usage Examples
 
 ## Directory Mode (Process Multiple Files)
 ```bash
